@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///C|/Users/carso/Creative Cloud Files/Assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/lxv4zda.css">
+<link rel="stylesheet" href="https://use.typekit.net/lxv4zda.css">
+<link rel="stylesheet" href="https://use.typekit.net/lxv4zda.css">
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+	
+</style>
+<link href="../Assets/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header>Carson's Gallery</header>
+
+  <!--Begin Floated Elements-->
+  <aside>
+</aside>
+	<!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Images of Carson </h1>
+    <div class="column">
+		<img src="../Images/better.jpg" width="250" height="350" alt="fancy boy"/>
+	  <img src="../Images/dope1.jpg" width="250" height="350" alt="carson with glasses"/>
+	  <img src="../Images/flower.jpg" width="250" height="350" alt="flower carson"/>
+    </div>
+    <div class="column"><img src="../Images/mentions1.jpg" width="250" height="350" alt="carson on da car"/>
+	  <img src="../Images/mentions2.jpg" width="250" height="350" alt="carson with earrings"/>
+	  <img src="../Images/gallery_images/gardens8.jpg" width="250" height="250" alt="doggie"/></div>
+    
+  </main>
+ <!-- TemplateEndEditable -->
+  <!--End Floated elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
